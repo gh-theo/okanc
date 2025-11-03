@@ -2,7 +2,7 @@
 # OKANC
 OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 
-## OKANC 优惠码大放送! 全场8折!优惠码: theo80
+## OKANC 双十一活动! 全场7折!优惠码: 1111
 
 ## OKANC 简介
 
