@@ -30,6 +30,8 @@ OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值�
 
 ![OKANC 拓扑图 =688x](https://i.theojs.cn/airport/okanc_topology.webp)
 
-![OKANC 流媒体解锁图 =688x](https://i.theojs.cn/airport/okanc_fulltest.webp)
+![OKANC 流媒体解锁图 =688x](https://i.theojs.cn/airport/okanc_unblock.webp)
 
 ![OKANC 广西移动测速图 =688x](https://i.theojs.cn/airport/okanc_guangxi_mobile.webp)
+
+![OKANC 长沙电信测速图 =688x](https://i.theojs.cn/airport/okanc_changsha_telecom.webp)
