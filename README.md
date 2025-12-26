@@ -1,5 +1,10 @@
 
 # OKANC
+
+- [🔥🔥🔥2026 年便宜好用的翻墙机场推荐评测(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/airport/summary)
+- [🔥🔥🔥 稳定好用的流媒体合租平台推荐(长期更新 欢迎推荐)](https://doc.theojs.cn/serve/sharing/account-sharing-guide)
+
+
 OKANC采用trojan协议，IEPL深港专线机场，稳定性高延迟低，值得推荐！
 
 ## OKANC 双十二 78 折特惠活动! 全场78折: 1212
